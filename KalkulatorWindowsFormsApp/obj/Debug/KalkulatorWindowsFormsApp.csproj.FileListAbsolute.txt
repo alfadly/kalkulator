@@ -1,0 +1,19 @@
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\bin\Debug\ZaidHanifWindowsFormsApp.exe.config
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\bin\Debug\ZaidHanifWindowsFormsApp.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\bin\Debug\ZaidHanifWindowsFormsApp.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.csprojAssemblyReference.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.Form1.resources
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.Properties.Resources.resources
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.csproj.GenerateResource.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.exe
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\ZaidHanifWindowsFormsApp\ZaidHanifWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.pdb
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\KalkulatorWindowsFormsApp.csprojResolveAssemblyReference.cache
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\ZaidHanifWindowsFormsApp.Form1.resources
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\KalkulatorWindowsFormsApp.csproj.GenerateResource.Cache
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\bin\Debug\KalkulatorWindowsFormsApp.exe.config
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\KalkulatorWindowsFormsApp.exe
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\KalkulatorWindowsFormsApp.pdb
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\bin\Debug\KalkulatorWindowsFormsApp.exe
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\bin\Debug\KalkulatorWindowsFormsApp.pdb
+E:\pemrograman\Kalkulator\KalkulatorWindowsFormsApp\KalkulatorWindowsFormsApp\obj\Debug\KalkulatorWindowsFormsApp.Properties.Resources.resources
